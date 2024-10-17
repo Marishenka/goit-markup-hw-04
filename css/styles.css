@@ -141,6 +141,11 @@ img {
   background: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
+  background-image: url(../images/office.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 .hero-title {
   font-weight: 700;
